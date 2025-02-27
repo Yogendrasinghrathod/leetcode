@@ -21,6 +21,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
@@ -41,6 +42,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
@@ -62,12 +64,18 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Stack
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
