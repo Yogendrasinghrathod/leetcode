@@ -35,6 +35,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -85,6 +86,7 @@
 | [0118-pascals-triangle](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
