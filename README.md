@@ -12,6 +12,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0061-rotate-list) |
 ## Tree
 |  |
@@ -74,6 +75,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0031-next-permutation) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0118-pascals-triangle) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
