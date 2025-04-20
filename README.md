@@ -112,6 +112,7 @@
 | [0039-combination-sum](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -262,6 +263,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0078-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0813-all-paths-from-source-to-target) |
