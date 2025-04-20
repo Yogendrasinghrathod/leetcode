@@ -72,6 +72,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -119,6 +120,7 @@
 | [0051-n-queens](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -193,6 +195,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0257-binary-tree-paths) |
@@ -273,6 +276,7 @@
 | [0051-n-queens](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -298,6 +302,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0407-trapping-rain-water-ii) |
 ## Merge Sort
 |  |
