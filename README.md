@@ -145,6 +145,7 @@
 | ------- |
 | [0224-basic-calculator](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0224-basic-calculator) |
 | [0343-integer-break](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0343-integer-break) |
+| [0507-perfect-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0507-perfect-number) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union Find
 |  |
