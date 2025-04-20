@@ -112,6 +112,7 @@
 | [0042-trapping-rain-water](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -254,6 +255,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0078-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Minimum Spanning Tree
 |  |
@@ -291,4 +293,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0948-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
