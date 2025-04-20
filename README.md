@@ -72,6 +72,7 @@
 | [0118-pascals-triangle](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0343-integer-break](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0343-integer-break) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0224-basic-calculator) |
+| [0343-integer-break](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0343-integer-break) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union Find
 |  |
