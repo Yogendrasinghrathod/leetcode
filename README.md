@@ -29,6 +29,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -60,6 +61,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -75,6 +77,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -190,6 +193,7 @@
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0224-basic-calculator) |
+| [0257-binary-tree-paths](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0394-decode-string) |
 | [1160-letter-tile-possibilities](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1160-letter-tile-possibilities) |
 ## Recursion
@@ -266,6 +270,7 @@
 | [0051-n-queens](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
