@@ -138,6 +138,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1039-find-the-town-judge) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -168,6 +169,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1039-find-the-town-judge](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 ## Math
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0948-sort-an-array) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
 |  |
@@ -253,6 +256,7 @@
 | [0075-sort-colors](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0948-sort-an-array) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 ## Quickselect
 |  |
 | ------- |
@@ -334,4 +338,5 @@
 | ------- |
 | [0055-jump-game](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0134-gas-station) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 <!---LeetCode Topics End-->
