@@ -110,6 +110,7 @@
 | [0015-3sum](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0118-pascals-triangle) |
@@ -252,6 +253,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0046-permutations) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Minimum Spanning Tree
 |  |
