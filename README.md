@@ -128,6 +128,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0204-count-primes) |
@@ -339,6 +340,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0605-can-place-flowers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 <!---LeetCode Topics End-->
