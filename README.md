@@ -76,6 +76,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0871-keys-and-rooms) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Yogendrasinghrathod/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0871-keys-and-rooms) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Yogendrasinghrathod/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Array
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [0547-number-of-provinces](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0547-number-of-provinces) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [2793-count-the-number-of-complete-components](https://github.com/Yogendrasinghrathod/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Memoization
 |  |
 | ------- |
@@ -198,6 +201,7 @@
 | [1039-find-the-town-judge](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1039-find-the-town-judge) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1916-find-center-of-star-graph](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/Yogendrasinghrathod/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Sorting
 |  |
 | ------- |
