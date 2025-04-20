@@ -109,6 +109,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0232-implement-queue-using-stacks](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
 |  |
@@ -185,4 +187,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
