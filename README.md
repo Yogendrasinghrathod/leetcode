@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -118,6 +119,7 @@
 | [0042-trapping-rain-water](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0079-word-search) |
@@ -326,4 +328,8 @@
 | ------- |
 | [0078-subsets](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
