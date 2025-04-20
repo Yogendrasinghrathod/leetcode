@@ -112,6 +112,7 @@
 | [1039-find-the-town-judge](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1039-find-the-town-judge) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0547-number-of-provinces) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Memoization
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1039-find-the-town-judge) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1916-find-center-of-star-graph](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1916-find-center-of-star-graph) |
 ## Sorting
 |  |
@@ -221,4 +224,8 @@
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
