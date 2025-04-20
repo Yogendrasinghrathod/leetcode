@@ -47,6 +47,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0792-binary-search) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
@@ -120,6 +121,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0407-trapping-rain-water-ii](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0792-binary-search](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0792-binary-search) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1039-find-the-town-judge) |
