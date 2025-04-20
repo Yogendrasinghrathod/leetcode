@@ -130,6 +130,7 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [0507-perfect-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0507-perfect-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Union Find
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## String
 |  |
 | ------- |
@@ -257,6 +260,7 @@
 | [0046-permutations](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0078-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -269,6 +273,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0204-count-primes) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |
@@ -297,4 +302,5 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0078-subsets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
