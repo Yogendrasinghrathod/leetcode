@@ -109,6 +109,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0224-basic-calculator](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0394-decode-string) |
@@ -121,6 +122,7 @@
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0224-basic-calculator) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union Find
 |  |
@@ -138,10 +140,12 @@
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0394-decode-string) |
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0394-decode-string) |
 ## Queue
 |  |
