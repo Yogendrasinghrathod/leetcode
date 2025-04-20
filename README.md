@@ -258,6 +258,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0078-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
