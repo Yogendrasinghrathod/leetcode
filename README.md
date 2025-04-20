@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -81,6 +84,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0101-symmetric-tree) |
 | [0547-number-of-provinces](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0547-number-of-provinces) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Array
