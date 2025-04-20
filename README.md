@@ -18,6 +18,7 @@
 | [0031-next-permutation](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0075-sort-colors) |
 ## Tree
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0015-3sum](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -222,6 +224,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
