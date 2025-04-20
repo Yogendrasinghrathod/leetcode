@@ -112,6 +112,7 @@
 | [0001-two-sum](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0046-permutations) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0037-sudoku-solver) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1039-find-the-town-judge](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -265,6 +267,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0051-n-queens) |
@@ -294,6 +297,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0407-trapping-rain-water-ii) |
 ## Merge Sort
 |  |
