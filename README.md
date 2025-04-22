@@ -226,6 +226,7 @@
 | [0072-edit-distance](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0214-shortest-palindrome](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0394-decode-string) |
@@ -378,5 +379,14 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0686-repeated-string-match) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
