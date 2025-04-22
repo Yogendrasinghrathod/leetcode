@@ -100,6 +100,7 @@
 | [0198-house-robber](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0343-integer-break) |
+| [0416-partition-equal-subset-sum](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -146,6 +147,7 @@
 | [0238-product-of-array-except-self](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0605-can-place-flowers](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0605-can-place-flowers) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0792-binary-search) |
