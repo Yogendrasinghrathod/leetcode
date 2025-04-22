@@ -96,6 +96,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0343-integer-break) |
+| [0747-min-cost-climbing-stairs](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
@@ -137,6 +138,7 @@
 | [0238-product-of-array-except-self](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0407-trapping-rain-water-ii](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0605-can-place-flowers](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0605-can-place-flowers) |
+| [0747-min-cost-climbing-stairs](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0792-binary-search) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0948-sort-an-array) |
