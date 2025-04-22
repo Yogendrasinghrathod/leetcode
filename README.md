@@ -47,6 +47,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0367-valid-perfect-square](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0367-valid-perfect-square) |
 | [0450-delete-node-in-a-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -203,6 +204,7 @@
 | [0224-basic-calculator](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0258-add-digits) |
 | [0343-integer-break](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0343-integer-break) |
+| [0367-valid-perfect-square](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0507-perfect-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
