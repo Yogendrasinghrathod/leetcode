@@ -164,6 +164,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1039-find-the-town-judge) |
+| [1372-check-if-it-is-a-good-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -214,6 +215,7 @@
 | [0367-valid-perfect-square](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0507-perfect-number) |
+| [1372-check-if-it-is-a-good-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -352,6 +354,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0258-add-digits) |
+| [1372-check-if-it-is-a-good-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 ## Matrix
 |  |
 | ------- |
