@@ -80,6 +80,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0257-binary-tree-paths) |
+| [0332-reconstruct-itinerary](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -263,6 +264,7 @@
 ## Graph
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -363,4 +365,8 @@
 | [0135-candy](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0605-can-place-flowers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
