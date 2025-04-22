@@ -201,6 +201,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0224-basic-calculator) |
+| [0258-add-digits](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0258-add-digits) |
 | [0343-integer-break](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0343-integer-break) |
 | [0507-perfect-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0507-perfect-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -340,6 +341,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0258-add-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -404,4 +406,5 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
