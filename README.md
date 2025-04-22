@@ -142,6 +142,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0198-house-robber) |
@@ -366,6 +367,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0190-reverse-bits) |
 | [0461-hamming-distance](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0461-hamming-distance) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
