@@ -205,6 +205,7 @@
 | [0067-add-binary](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0224-basic-calculator) |
