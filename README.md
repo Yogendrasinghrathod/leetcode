@@ -193,6 +193,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0204-count-primes) |
@@ -223,6 +224,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -361,6 +363,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Greedy
@@ -389,4 +392,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0214-shortest-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
