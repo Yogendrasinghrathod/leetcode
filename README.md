@@ -21,6 +21,7 @@
 | [0061-rotate-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0202-happy-number) |
+| [0861-flipping-an-image](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0861-flipping-an-image) |
 ## Tree
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [0605-can-place-flowers](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0605-can-place-flowers) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0861-flipping-an-image) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1039-find-the-town-judge) |
@@ -367,6 +369,7 @@
 | [0037-sudoku-solver](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0861-flipping-an-image](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0861-flipping-an-image) |
 ## Merge Sort
 |  |
 | ------- |
@@ -394,6 +397,7 @@
 | [0190-reverse-bits](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0461-hamming-distance](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0461-hamming-distance) |
+| [0861-flipping-an-image](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0861-flipping-an-image) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Greedy
 |  |
@@ -426,4 +430,5 @@
 | ------- |
 | [0067-add-binary](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0258-add-digits) |
+| [0861-flipping-an-image](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
