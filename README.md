@@ -217,6 +217,7 @@
 | [0507-perfect-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0507-perfect-number) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2507-number-of-common-factors](https://github.com/Yogendrasinghrathod/leetcode/tree/master/2507-number-of-common-factors) |
