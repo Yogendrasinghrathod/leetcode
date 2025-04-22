@@ -92,6 +92,7 @@
 | [0042-trapping-rain-water](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -215,6 +216,7 @@
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0224-basic-calculator) |
