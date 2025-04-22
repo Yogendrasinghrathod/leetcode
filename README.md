@@ -20,6 +20,7 @@
 | [0042-trapping-rain-water](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0202-happy-number) |
 ## Tree
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0037-sudoku-solver) |
+| [0202-happy-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0202-happy-number) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1039-find-the-town-judge](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -200,6 +202,7 @@
 | [0067-add-binary](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0258-add-digits) |
