@@ -135,6 +135,7 @@
 | [0046-permutations](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0079-word-search) |
@@ -199,6 +200,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0171-excel-sheet-column-number) |
