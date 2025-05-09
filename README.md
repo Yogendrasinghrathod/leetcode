@@ -10,6 +10,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yogendrasinghrathod/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
@@ -22,6 +23,7 @@
 | [0061-rotate-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0202-happy-number) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0861-flipping-an-image](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Tree
