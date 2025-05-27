@@ -48,6 +48,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -138,6 +139,7 @@
 | [0011-container-with-most-water](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0042-trapping-rain-water) |
