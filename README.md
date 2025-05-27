@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0072-edit-distance) |
@@ -142,6 +143,7 @@
 | [0042-trapping-rain-water](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0075-sort-colors) |
@@ -182,6 +184,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Yogendrasinghrathod/leetcode/tree/master/0190-reverse-bits) |
